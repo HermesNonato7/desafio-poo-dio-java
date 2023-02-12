@@ -1,12 +1,12 @@
-<h1> Desafio: Aprenda na Pr·tica ProgramaÁ„o Orientada a Objetos</h1>
+<h1> Desafio: Aprenda na Pr√°tica Programa√ß√£o Orientada a Objetos</h1>
 
-<p align="center"> ?? <a href="https://academiapme-my.sharepoint.com/:p:/g/personal/camila_cavalcante_dio_me/EaXyYOjBaFpZjkxhexMo5EcBKMEEAI5t5aHlsTjnBQJlUw?e=nxdB6C"> SLIDES APRESENTADO NO PROJETO </a> ?? </P>
-<p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PR¡TICA O PARADIGMA DE ORIENTA«√O A OBJETOS.</strong><br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> ???? e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
-    ?? O objetivo principal È colocar em pr·tica umas das principais ferramentas da OO: <strong>ABSTRA«√O, ENCAPSULAMENTO, HERAN«A E POLIMORFISMO,</strong> atravÈs de um projeto Java. </p>
+<p align="center"> üìú <a href="https://academiapme-my.sharepoint.com/:p:/g/personal/camila_cavalcante_dio_me/EaXyYOjBaFpZjkxhexMo5EcBKMEEAI5t5aHlsTjnBQJlUw?e=nxdB6C"> SLIDES APRESENTADO NO PROJETO </a> ?? </P>
+<p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PR√ÅTICA O PARADIGMA DE ORIENTA√á√ÉO A OBJETOS.</strong><br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> ???? e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
+    ?? O objetivo principal √© colocar em pr√°tica umas das principais ferramentas da OO: <strong>ABSTRA√á√ÉO, ENCAPSULAMENTO, HERAN√áA E POLIMORFISMO,</strong> atrav√©s de um projeto Java. </p>
 
 
 
-<h2>?? PrÈ-Requisitos</h2>
+<h2>?? Pr√©-Requisitos</h2>
 
 <p>
 ? Conhecer a sintaxe da Java<br>
@@ -20,127 +20,127 @@
 <h2> ?? Passo-a-Passo</h2>
 
 <p>
-<strong>	1.</strong> Vamos ABSTRAIR o DOMÕNIO Bootcamp e MODELAR seus ATRIBUTOS E M…TODOS <br>
+<strong>	1.</strong> Vamos ABSTRAIR o DOM√çNIO Bootcamp e MODELAR seus ATRIBUTOS E M√âTODOS <br>
 <strong>	2.</strong> Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las <br>
-<strong>	3.</strong> As CLASSES Curso, Mentoria e Devs tambÈm ser„o MODELADOS, ou seja, criaremos seus ATRIBUTOS E M…TODOS <br> 
-<strong>	4.</strong> Para que o cÛdigo fique mais legÌvel e de f·cil manutenÁ„o, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTA«√O A OBJETOS (POO) nos oferece: ABSTRA«√O, ENCAPSULAMENTO, HERAN«A E POLIMORFISMO <br>
+<strong>	3.</strong> As CLASSES Curso, Mentoria e Devs tamb√©m ser√£o MODELADOS, ou seja, criaremos seus ATRIBUTOS E M√âTODOS <br> 
+<strong>	4.</strong> Para que o c√≥digo fique mais leg√≠vel e de f√°cil manuten√ß√£o, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTA√á√ÉO A OBJETOS (POO) nos oferece: ABSTRA√á√ÉO, ENCAPSULAMENTO, HERAN√áA E POLIMORFISMO <br>
 <strong>	5.</strong> E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS<br>
 </p>
 
 ----
 
-<h2> ?? Paradigma de ProgramaÁ„o Orientado a Objetos (POO) </h2>
+<h2> ?? Paradigma de Programa√ß√£o Orientado a Objetos (POO) </h2>
 
 <p>
-A vis„o de OrientaÁ„o a Objetos (OO) È aquela de um mundo de objetos que interagem.<br>
-Este paradigma È um modelo de an·lise, projeto e programaÁ„o baseado na aproximaÁ„o entre o mundo real e o mundo virtual, atravÈs da criaÁ„o e interaÁ„o entre classes, atributos, mÈtodos, objetos, entre outros.<br>
-S„o 4 os pilares principais do POO: ABSTRA«√O, ENCAPSULAMENTO, HERAN«A E POLIMORFISMO. 
+A vis√£o de Orienta√ß√£o a Objetos (OO) √© aquela de um mundo de objetos que interagem.<br>
+Este paradigma √© um modelo de an√°lise, projeto e programa√ß√£o baseado na aproxima√ß√£o entre o mundo real e o mundo virtual, atrav√©s da cria√ß√£o e intera√ß√£o entre classes, atributos, m√©todos, objetos, entre outros.<br>
+S√£o 4 os pilares principais do POO: ABSTRA√á√ÉO, ENCAPSULAMENTO, HERAN√áA E POLIMORFISMO. 
 </p>
 
 
-<h3>?? ABSTRA«√O:</h3>
+<h3>?? ABSTRA√á√ÉO:</h3>
 
 <p>
-Habilidade de concentrar-se nos aspectos essenciais de um domÌnio, ignorando caracterÌsticas menos importantes ou acidentais. Nesse contexto, objetos s„o abstraÁıes de entidades existentes no domÌnio em quest„o.</p>
+Habilidade de concentrar-se nos aspectos essenciais de um dom√≠nio, ignorando caracter√≠sticas menos importantes ou acidentais. Nesse contexto, objetos s√£o abstra√ß√µes de entidades existentes no dom√≠nio em quest√£o.</p>
 
 <h3>?? ENCAPSULAMENTO:</h3>
 
-<p> Encapsular significa esconder a implementaÁ„o dos objetos. O encapsulamento favorece principalmente dois aspectos de um sistema: a manutenÁ„o e a evoluÁ„o.</p>
+<p> Encapsular significa esconder a implementa√ß√£o dos objetos. O encapsulamento favorece principalmente dois aspectos de um sistema: a manuten√ß√£o e a evolu√ß√£o.</p>
 
-<h3>?? HERAN«A:</h3>
+<h3>?? HERAN√áA:</h3>
 
-<p>Permite que vocÍ defina uma classe filha que reutiliza (herda), estende ou modifica o comportamento de uma classe pai. A classe cujos membros s„o herdados È chamada de classe base. A classe que herda os membros da classe base È chamada de classe derivada.</p>
+<p>Permite que voc√™ defina uma classe filha que reutiliza (herda), estende ou modifica o comportamento de uma classe pai. A classe cujos membros s√£o herdados √© chamada de classe base. A classe que herda os membros da classe base √© chamada de classe derivada.</p>
 
 <h3> ?? POLIMORFISMO:</h3>
 
-<p>Capacidade de um objeto poder ser referenciado de v·rias formas. Cuidado, polimorfismo n„o quer dizer que o objeto fica se transformando, muito pelo contr·rio, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar È a maneira como nos referimos a ele. A capacidade de tratar objetos criados a partir das classes especÌficas como objetos de uma classe genÈrica È chamada de polimorfismo.</p>
+<p>Capacidade de um objeto poder ser referenciado de v√°rias formas. Cuidado, polimorfismo n√£o quer dizer que o objeto fica se transformando, muito pelo contr√°rio, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar √© a maneira como nos referimos a ele. A capacidade de tratar objetos criados a partir das classes espec√≠ficas como objetos de uma classe gen√©rica √© chamada de polimorfismo.</p>
 <br>
 <h2 align="center"> ?? CONCEITOS FUNDAMENTAIS POO ?? </h2>
 <p>
-<h3>?? DOMÕNIO:</h3> 
-DomÌnio da aplicaÁ„o, tambÈm conhecida como camada de negÛcio ou de objetos de negÛcio, È aquela onde est„o localizadas as classes que fazem parte do domÌnio do problema, ou seja, classes correspondentes a objetos que fazem parte da descriÁ„o do problema.
+<h3>?? DOM√çNIO:</h3> 
+Dom√≠nio da aplica√ß√£o, tamb√©m conhecida como camada de neg√≥cio ou de objetos de neg√≥cio, √© aquela onde est√£o localizadas as classes que fazem parte do dom√≠nio do problema, ou seja, classes correspondentes a objetos que fazem parte da descri√ß√£o do problema.
 
 <h3>?? CLASSE: </h3> 
-Um elemento do cÛdigo que tem a funÁ„o de representar objetos do mundo real. Dentro dela È comum declararmos atributos e mÈtodos, que representam, respectivamente, as caracterÌsticas e comportamentos desse objeto.
+Um elemento do c√≥digo que tem a fun√ß√£o de representar objetos do mundo real. Dentro dela √© comum declararmos atributos e m√©todos, que representam, respectivamente, as caracter√≠sticas e comportamentos desse objeto.
 
 <h3>?? ATRIBUTO: </h3>
-Atributos s„o, basicamente, a estrutura de dados que vai representar a classe. Os atributos tambÈm s„o conhecidos como VARI¡VEL DE CLASSE, e podem ser divididos em dois tipos b·sicos: atributos de inst‚ncia e de classe. 
+Atributos s√£o, basicamente, a estrutura de dados que vai representar a classe. Os atributos tamb√©m s√£o conhecidos como VARI√ÅVEL DE CLASSE, e podem ser divididos em dois tipos b√°sicos: atributos de inst√¢ncia e de classe. 
 
-<h3>?? VARI¡VEL: </h3>
-Uma ?regi„o de memÛria (do computador) previamente identificada cuja finalidade È armazenar os dados ou informaÁıes de um programa por um determinado espaÁo de tempo?.
+<h3>?? VARI√ÅVEL: </h3>
+Uma ?regi√£o de mem√≥ria (do computador) previamente identificada cuja finalidade √© armazenar os dados ou informa√ß√µes de um programa por um determinado espa√ßo de tempo?.
 
-<h3>?? M…TODO: </h3>
-Os mÈtodos representam os estados e aÁıes dos objetos e classes.
+<h3>?? M√âTODO: </h3>
+Os m√©todos representam os estados e a√ß√µes dos objetos e classes.
 
 <h3>?? OBJETO: </h3>
-Em POO, objeto È um "molde" de uma determinada classe, que passa a existir a partir de uma inst‚ncia da classe. A classe define o comportamento do objeto, usando atributos (propriedades) e mÈtodos (aÁıes).
-Objeto em ciÍncia da computaÁ„o, È uma referÍncia a um local da memÛria que possui um valor. Um objeto pode ser uma vari·vel, funÁ„o, ou estrutura de dados. 
+Em POO, objeto √© um "molde" de uma determinada classe, que passa a existir a partir de uma inst√¢ncia da classe. A classe define o comportamento do objeto, usando atributos (propriedades) e m√©todos (a√ß√µes).
+Objeto em ci√™ncia da computa√ß√£o, √© uma refer√™ncia a um local da mem√≥ria que possui um valor. Um objeto pode ser uma vari√°vel, fun√ß√£o, ou estrutura de dados. 
 
-<h3>?? INST¬NCIA: </h3>
-Uma inst‚ncia de uma classe È um novo objeto criado dessa classe, com o operador new. Instanciar uma classe È criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poder· ser utilizada apÛs ser instanciada.
+<h3>?? INST√ÇNCIA: </h3>
+Uma inst√¢ncia de uma classe √© um novo objeto criado dessa classe, com o operador new. Instanciar uma classe √© criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poder√° ser utilizada ap√≥s ser instanciada.
 
 </p>
     
 ------------
 <br>
 
-<h2> ?? Linguagem de ProgramaÁ„o vs Paradigma de Linguagem de ProgramaÁ„o</h2>
+<h2> ?? Linguagem de Programa√ß√£o vs Paradigma de Linguagem de Programa√ß√£o</h2>
 
 <p>
-<h3> ? LINGUAGEM DE PROGRAMA«√O:</h3> 
-… uma linguagem formal que, atravÈs de uma sÈrie de instruÁıes, permite que um programador escreva um conjunto de ordens, aÁıes consecutivas, dados e algoritmos para criar programas que controlam o comportamento fÌsico e lÛgico de uma m·quina.<br>
-Seguem alguns exemplos de como as linguagens de programaÁ„o podem ser classificadas:<br>
+<h3> ? LINGUAGEM DE PROGRAMA√á√ÉO:</h3> 
+√â uma linguagem formal que, atrav√©s de uma s√©rie de instru√ß√µes, permite que um programador escreva um conjunto de ordens, a√ß√µes consecutivas, dados e algoritmos para criar programas que controlam o comportamento f√≠sico e l√≥gico de uma m√°quina.<br>
+Seguem alguns exemplos de como as linguagens de programa√ß√£o podem ser classificadas:<br>
 <br>
-?? NÌvel de abstraÁ„o:<br>
-Baixo NÌvel: Assembly<br>
-MÈdio NÌvel: C, C++, D, Objective C, etc.<br>
-Alto NÌvel: Java, C#, PHP, Javascript, etc.<br>
-AltÌssimo NÌvel: Python, Ruby, Elixir, etc.<br>
+?? N√≠vel de abstra√ß√£o:<br>
+Baixo N√≠vel: Assembly<br>
+M√©dio N√≠vel: C, C++, D, Objective C, etc.<br>
+Alto N√≠vel: Java, C#, PHP, Javascript, etc.<br>
+Alt√≠ssimo N√≠vel: Python, Ruby, Elixir, etc.<br>
 <br>
-?? Paradigma de programaÁ„o:<br>
-ProgramaÁ„o Estruturada: C, Pascal, Ada, etc.<br>
-ProgramaÁ„o Orientada a Objetos: Java, C#, C++, Objective C, D, etc.<br>
-ProgramaÁ„o Funcional: Lisp, Scheme, Erlang, Elixir, etc.<br>
+?? Paradigma de programa√ß√£o:<br>
+Programa√ß√£o Estruturada: C, Pascal, Ada, etc.<br>
+Programa√ß√£o Orientada a Objetos: Java, C#, C++, Objective C, D, etc.<br>
+Programa√ß√£o Funcional: Lisp, Scheme, Erlang, Elixir, etc.<br>
 <br>
-?? Linguagens classificadas pela arquitetura da aplicaÁ„o:<br>
+?? Linguagens classificadas pela arquitetura da aplica√ß√£o:<br>
 Desktop: C, C++, Object Pascal, Java, etc.<br>
 Web: PHP, Ruby, Javascript, Java, etc.<br>
 <br>
-?? Tipo de execuÁ„o:<br>
+?? Tipo de execu√ß√£o:<br>
 Linguagens compiladas: C, C++, Pascal, D, GO, etc.<br>
 Linguagens Interpretadas: Python, Ruby, PHP, Javascript, etc.<br>
 Linguagens Hibridas: Java, Erlang, Elixir, etc.<br>
 
 
-<h3> ? PARADIGMA DE LINGUAGEM DE PROGRAMA«√O</h3> 
+<h3> ? PARADIGMA DE LINGUAGEM DE PROGRAMA√á√ÉO</h3> 
 
-… um conjunto de caracterÌsticas que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer tÈcnicas apropriadas para uma aplicaÁ„o especÌfica.<br>
+√â um conjunto de caracter√≠sticas que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer t√©cnicas apropriadas para uma aplica√ß√£o espec√≠fica.<br>
 <br>
 <strong>PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS</strong><br>
 
 ?? <strong>1. Paradigma Imperativo</strong><br>
-Neste paradigma, o programa descreve o processamento necess·rio para solucionar o problema. Assim, o paradigma imperativo È caracterizado por execuÁ„o sequencial de instruÁıes, pelo uso de vari·veis que representam posiÁıes de memÛria e pelo uso de instruÁıes de atribuiÁ„o que alteram os valores dessas vari·veis.<br>
-Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programaÁ„o que adotam esses subparadigmas.<br>
+Neste paradigma, o programa descreve o processamento necess√°rio para solucionar o problema. Assim, o paradigma imperativo √© caracterizado por execu√ß√£o sequencial de instru√ß√µes, pelo uso de vari√°veis que representam posi√ß√µes de mem√≥ria e pelo uso de instru√ß√µes de atribui√ß√£o que alteram os valores dessas vari√°veis.<br>
+Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programa√ß√£o que adotam esses subparadigmas.<br>
 <br>
 ??  1.1 Paradigma estruturado:  ALGOL 58 e ALGOL 60 <br>
 ??  1.2 Paradigma concorrente: Java e Ada<br>
 ??  1.3 Paradigma Orientado a Objetos: Smalltalk e Java<br>
 <br>
 ?? <strong>2. Paradigma Declarativo</strong><br>
-Este paradigma È o modelo no qual os resultados s„o descritos, mas os passos para chegar aos resultados n„o s„o estabelecidos.<br>
-Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programaÁ„o que adotam esses subparadigmas:<br>
+Este paradigma √© o modelo no qual os resultados s√£o descritos, mas os passos para chegar aos resultados n√£o s√£o estabelecidos.<br>
+Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programa√ß√£o que adotam esses subparadigmas:<br>
 <br>
 ?? 2.1 Paradigma Funcional: Lisp e Haskell<br>
-?? 2.2 Paradigma LÛgico: Prolog<br>
+?? 2.2 Paradigma L√≥gico: Prolog<br>
 </p>
 
 <h2> ?? Contribuindo </h2>
 
 <p>
-Este repositÛrio foi criado para fins de estudo, ent„o contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso vocÍ conheÁa alguÈm que se identidique com o conte˙do, n„o deixe de compatilhar.<br>
+Este reposit√≥rio foi criado para fins de estudo, ent√£o contribua com ele.<br>
+Se te ajudei de alguma forma, ficarei feliz em saber. E caso voc√™ conhe√ßa algu√©m que se identidique com o conte√∫do, n√£o deixe de compatilhar.<br>
 <br>
-Se possÌvel:<br>
+Se poss√≠vel:<br>
 ??  Star o projeto<br>
 ?? Encontrar e relatar issues<br>
 </p>
