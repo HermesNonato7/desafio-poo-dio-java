@@ -13,7 +13,7 @@
 ? Java JDK 11<br>
 ? IDE para desenvolvimento Java (usarei IntelliJ)<br>
 ? Git<br>
-? Conta no GitHub<br>
+? Conta no GitHub.<br>
 </p>
 
 
